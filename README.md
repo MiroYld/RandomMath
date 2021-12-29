@@ -4,16 +4,16 @@
 
 # DEPENDECIES
 
-sudo add-apt-repository ppa:linuxuprising/java
+1) ```sudo add-apt-repository ppa:linuxuprising/java```
 
-sudo apt update
+2) ```sudo apt update```
 
-sudo apt install oracle-java17-installer
+3) ```sudo apt install oracle-java17-installer```
 
-java -version
+4) ```java -version```
 
 # TO EXECUTE
 
-cd /src
+1) ```cd /src```
 
-java RandomMath.java
+2) ```java RandomMath.java```
