@@ -4,13 +4,14 @@
 
 # DEPENDECIES
 
-1) ```sudo add-apt-repository ppa:linuxuprising/java```
+1) ``` git clone https://github.com/MiroYld/RandomMath.git```
+2) ```sudo add-apt-repository ppa:linuxuprising/java```
 
-2) ```sudo apt update```
+3) ```sudo apt update```
 
-3) ```sudo apt install oracle-java17-installer```
+4) ```sudo apt install oracle-java17-installer```
 
-4) ```java -version```
+5) ```java -version```
 
 # TO EXECUTE
 
