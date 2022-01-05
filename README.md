@@ -15,6 +15,6 @@
 
 # TO EXECUTE
 
-1) ```cd /src```
+1) ```cd RandomMath/src```
 
 2) ```java RandomMath.java```
